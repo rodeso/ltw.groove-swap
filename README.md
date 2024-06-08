@@ -1,12 +1,23 @@
-# GrooveSwap
-### Swap your Grooves
-## LTW18G03
-- Gonçalo Augusto Sousa (202207320)
-- Rodrigo Dias Ferreira Loureiro de Sousa (202205751)
+# LTW18G03
+GrooveSwap
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+- **Project name:** LTW18G03 - GrooveSwap
+- **Short description:** Second-hand Music Store
+- **Environment:** Web
+- **Tools:** HTML/PHP/JS
+- **Institution:** [FEUP](https://sigarra.up.pt/feup/en/web_page.Inicial)
+- **Course:** [LTW](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=520324) (Web Languages and Technologies)
+- **Project grade:** 14.2
+- **Group members:**
+    - Gonçalo Augusto Sousa (up202207320@up.pt)
+    - Rodrigo Dias Ferreira Loureiro de Sousa (up202205751@up.pt)
+
+---
 
 ## Install Instructions
-
-
 
     git clone https://github.com/FEUP-LTW-2024/ltw-project-2024-ltw18g03.git
 
